@@ -1,3 +1,5 @@
+#Open-sourced an encrypted data recognition model based on PaddlePaddle.
+
 import numpy as np 
 import pandas as pd
 from keras.datasets import mnist 
